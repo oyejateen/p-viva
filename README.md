@@ -1,13 +1,19 @@
 # p-viva
 
 https://chatgpt.com/share/69e59690-7ca4-83e8-a9dc-5ff1a6fa6d3c
-1. Hello World
+
+1. Hello World:
+
 print("Hello World")
+
 2. Sum of Two Numbers
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 print("Sum =", a + b)
+
 3. Even or Odd
+
 num = int(input("Enter a number: "))
 if num % 2 == 0:
     print("Even")
